@@ -1,0 +1,16 @@
+<Atlas>
+<Texture filename="atv_cb.tex"/>
+    <Elements>
+        <Element name="atv_cb_atv_banhbotloc.tex" u1="0.00048828125" u2="0.19482422" v1="0.61035156" v2="0.99902344"/>
+        <Element name="atv_cb_atv_banhchung.tex" u1="0.19580078" u2="0.39013672" v1="0.61035156" v2="0.99902344"/>
+        <Element name="atv_cb_atv_banhmi.tex" u1="0.39111328" u2="0.58544922" v1="0.61035156" v2="0.99902344"/>
+        <Element name="atv_cb_atv_banhmi_2.tex" u1="0.39111328" u2="0.54150391" v1="0.30761719" v2="0.60839844"/>
+        <Element name="atv_cb_atv_banhxeo.tex" u1="0.58642578" u2="0.78076172" v1="0.61035156" v2="0.99902344"/>
+        <Element name="atv_cb_atv_bunreal.tex" u1="0.54248047" u2="0.69287109" v1="0.30761719" v2="0.60839844"/>
+        <Element name="atv_cb_atv_cafe.tex" u1="0.78173828" u2="0.97607422" v1="0.61035156" v2="0.99902344"/>
+        <Element name="atv_cb_atv_comtam.tex" u1="0.00048828125" u2="0.19482422" v1="0.21972656" v2="0.60839844"/>
+        <Element name="atv_cb_atv_nemnuong.tex" u1="0.19580078" u2="0.39013672" v1="0.21972656" v2="0.60839844"/>
+    </Elements>
+</Atlas>
+
+
